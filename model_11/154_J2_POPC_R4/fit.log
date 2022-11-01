@@ -1,0 +1,16 @@
+########### IMPORTING DATA ###############
+Data: 154_J2_POPC_R4
+########### MODEL PARAMETERS ###############
+poly_pr_lip     : initial = 0.10000   , min = 0.00000   , max = 1.00000   , fit =       0.42338 +/- 1.46135    
+scale_V_poly0   : initial = 0.70000   , min = 0.50000   , max = 2.00000   , fit =       0.66797 +/- 1.08811    
+N_lip           : initial = 60.00000  , min = 10.00000  , max = 400.00000 , fit =      44.07212 +/- 46.47715   
+eps             : initial = 1.50000   , min = 1.20000   , max = 5.00000   , fit =       2.12879 +/- 0.00673    
+sigma_roughness : initial = 2.00000   , min = 0.00000   , max = 10.00000  , fit =       0.04494 +/- 31.09337   
+scale           : initial = 0.04521   , min = 0.01000   , max = 1000.00000, fit =       0.04296 +/- 0.00006    
+background      : initial = 0.00000   , min = -0.10000  , max = 0.10000   , fit =       0.00043 +/- 0.00004    
+Chi2r = 12.26
+########### DERIVED PARAMETERS ###############
+r = 22.76945    
+R = 25.81740    
+dp_t = -0.01861    
+dp_h = 0.17314     

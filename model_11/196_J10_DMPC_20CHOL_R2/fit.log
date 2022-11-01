@@ -1,0 +1,16 @@
+########### IMPORTING DATA ###############
+Data: 196_J10_DMPC_20CHOL_R2
+########### MODEL PARAMETERS ###############
+poly_pr_lip     : initial = 0.10000   , min = 0.00000   , max = 1.00000   , fit =       0.38294 +/- 4.15556    
+scale_V_poly0   : initial = 0.70000   , min = 0.50000   , max = 2.00000   , fit =       0.64753 +/- 3.64692    
+N_lip           : initial = 60.00000  , min = 10.00000  , max = 400.00000 , fit =      39.92163 +/- 136.94392  
+eps             : initial = 1.50000   , min = 1.00000   , max = 5.00000   , fit =       2.43779 +/- 0.01598    
+sigma_roughness : initial = 2.00000   , min = 0.00000   , max = 10.00000  , fit =       4.99443 +/- 0.55550    
+scale           : initial = 0.02581   , min = 0.01000   , max = 1000.00000, fit =       0.02047 +/- 0.00005    
+background      : initial = 0.00000   , min = -0.10000  , max = 0.10000   , fit =       0.00120 +/- 0.00003    
+Chi2r = 4.76
+########### DERIVED PARAMETERS ###############
+r = 20.99554    
+R = 24.05618    
+dp_t = -0.02548    
+dp_h = 0.17918     

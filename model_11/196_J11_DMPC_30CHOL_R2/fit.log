@@ -1,0 +1,16 @@
+########### IMPORTING DATA ###############
+Data: 196_J11_DMPC_30CHOL_R2
+########### MODEL PARAMETERS ###############
+poly_pr_lip     : initial = 0.10000   , min = 0.00000   , max = 1.00000   , fit =       0.44994 +/- 5.85362    
+scale_V_poly0   : initial = 0.70000   , min = 0.50000   , max = 2.00000   , fit =       0.66780 +/- 4.12604    
+N_lip           : initial = 60.00000  , min = 10.00000  , max = 400.00000 , fit =      31.85491 +/- 146.57291  
+eps             : initial = 1.50000   , min = 1.00000   , max = 5.00000   , fit =       3.00426 +/- 0.02596    
+sigma_roughness : initial = 2.00000   , min = 0.00000   , max = 10.00000  , fit =       5.51809 +/- 0.60420    
+scale           : initial = 0.02313   , min = 0.01000   , max = 1000.00000, fit =       0.01840 +/- 0.00006    
+background      : initial = 0.00000   , min = -0.10000  , max = 0.10000   , fit =       0.00119 +/- 0.00003    
+Chi2r = 4.85
+########### DERIVED PARAMETERS ###############
+r = 19.79596    
+R = 22.73783    
+dp_t = -0.02134    
+dp_h = 0.17289     

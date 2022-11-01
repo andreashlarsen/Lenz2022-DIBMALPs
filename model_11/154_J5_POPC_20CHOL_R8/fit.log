@@ -1,0 +1,16 @@
+########### IMPORTING DATA ###############
+Data: 154_J5_POPC_20CHOL_R8
+########### MODEL PARAMETERS ###############
+poly_pr_lip     : initial = 0.10000   , min = 0.00000   , max = 1.00000   , fit =       0.42932 +/- 2.27294    
+scale_V_poly0   : initial = 0.70000   , min = 0.50000   , max = 2.00000   , fit =       0.63756 +/- 1.83835    
+N_lip           : initial = 60.00000  , min = 10.00000  , max = 400.00000 , fit =      28.92576 +/- 44.10070   
+eps             : initial = 1.50000   , min = 1.20000   , max = 5.00000   , fit =       2.57770 +/- 0.00627    
+sigma_roughness : initial = 2.00000   , min = 0.00000   , max = 10.00000  , fit =       6.40445 +/- 0.18603    
+scale           : initial = 0.06276   , min = 0.01000   , max = 1000.00000, fit =       0.06169 +/- 0.00006    
+background      : initial = 0.00000   , min = -0.10000  , max = 0.10000   , fit =       0.00082 +/- 0.00002    
+Chi2r = 13.71
+########### DERIVED PARAMETERS ###############
+r = 20.52049    
+R = 22.98566    
+dp_t = -0.01554    
+dp_h = 0.18204     
