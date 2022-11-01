@@ -1,5 +1,7 @@
 # Lenz2022-DIBMALPs
 
-scripts for SAXS analysis in: 
+scripts for SAXS analysis and plotting for paper: 
 
-INSERT DOI, TITLE ETC
+Lenz, Larsen, Keller, Luchini (2022). Submitted.  
+
+see overview in Flow.sh    
