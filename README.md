@@ -1,6 +1,6 @@
 # Lenz2022-DIBMALPs
 
-![](/TOC_v3.pdf)
+![](/toc.png)
 
 scripts for SAXS analysis and plotting for paper: 
 
